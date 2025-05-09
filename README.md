@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @basilll007
-- 👀 I’m interested in ... data science ,machine learning 
-- 🌱 I’m currently learning ... B.E computer science 
+### 👋 Hey there! I'm Basil Tamil Selvan E.
 
+🚀 AI Researcher-in-the-making | MSc Applied AI @ Purdue  
+🔬 Exploring the quantum chaos of particle physics  
+🧬 Inspired by biology, driven by data  
+📡 Currently decoding LHC collisions & protein interactions using machine learning  
+📚 Passionate about agentic AI, simulation, and interdisciplinary innovation  
 
-<!---
-basilll007/basilll007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 🛠️ Tools of choice: Python • PyTorch • TensorFlow • SciKit  • Jupyter • Git  
+> 🎓 Interested in: Particle-Particle Interaction Simulation • Bioinformatics • AI Theory • Collider Data Sonification • Generative AI in Science
