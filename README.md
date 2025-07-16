@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Basil Tamil Selvan E.
 
-🚀 AI Researcher-in-the-making | MSc Applied AI @ Purdue  
+🚀 AI Researcher-in-the-making | MS Applied AI @ Purdue  
 🔬 Exploring the quantum chaos of particle physics  
 🧬 Inspired by biology, driven by data  
 📡 Currently decoding LHC collisions & protein interactions using machine learning  
